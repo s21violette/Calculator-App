@@ -2,18 +2,6 @@
 
 Implementation of the string.h library with additions.
 
-### string.h Types
-
-| No. | Variable | Description |
-| ------ | ------ | ------ |
-| 1 | size_t | This is the unsigned integral type and is the result of the sizeof keyword. |
-	
-### string.h Macro
-
-| No. | Macro | Description |
-| ------ | ------ | ------ |
-| 1 | NULL | This macro is the value of a null pointer constant. |
-
 ### string.h Functions
 
 | No. | Function | Description |
