@@ -46,22 +46,22 @@ Implementation of the string.h library with additions.
 
 | No. | Specifier | sprintf output
 | --- | --- | --- | --- |
-| 1 | c | Character
-| 2 | d | Signed decimal integer
-| 3 | i | Signed decimal integer
-| 4 | e | Scientific notation (mantissa/exponent) using e character (the output of the numbers must match up to e-6)
-| 5 | E | Scientific notation (mantissa/exponent) using E character
-| 6 | f | Decimal floating point
-| 7 | g | Uses the shortest representation of decimal floating point
-| 8 | G | Uses the shortest representation of decimal floating point
-| 9 | o | Unsigned octal
-| 10 | s | String of characters
-| 11 | u | Unsigned decimal integer
-| 12 | x | Unsigned hexadecimal integer
-| 13 | X | Unsigned hexadecimal integer (capital letters)
-| 14 | p | Pointer address
-| 15 | n | Number of characters printed until %n occurs
-| 16 | % | Character %
+| 1 | c | Character |
+| 2 | d | Signed decimal integer |
+| 3 | i | Signed decimal integer |
+| 4 | e | Scientific notation (mantissa/exponent) using e character (the output of the numbers must match up to e-6) |
+| 5 | E | Scientific notation (mantissa/exponent) using E character |
+| 6 | f | Decimal floating point |
+| 7 | g | Uses the shortest representation of decimal floating point |
+| 8 | G | Uses the shortest representation of decimal floating point |
+| 9 | o | Unsigned octal |
+| 10 | s | String of characters |
+| 11 | u | Unsigned decimal integer |
+| 12 | x | Unsigned hexadecimal integer |
+| 13 | X | Unsigned hexadecimal integer (capital letters) |
+| 14 | p | Pointer address |
+| 15 | n | Number of characters printed until %n occurs |
+| 16 | % | Character % |
 
 ### sprintf Flags
 
